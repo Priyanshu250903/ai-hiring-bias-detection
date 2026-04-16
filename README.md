@@ -1,5 +1,3 @@
-# ai-hiring-bias-detection
-An AI-driven system for resume screening and bias detection that analyzes candidate data, identifies potential biases in hiring decisions, and promotes fair and transparent recruitment using data-driven insights.
 # AI Hiring Bias Detection System
 
 > Detecting, measuring, and mitigating bias in AI-driven recruitment — promoting fair, transparent, and responsible hiring.
@@ -112,7 +110,7 @@ A disparate impact score below **0.80** signals a potential fairness concern (th
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
